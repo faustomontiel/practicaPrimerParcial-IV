@@ -17,13 +17,6 @@ export class TablaProductosComponent implements OnInit {
     ];
    }
   
-  
-  /*
-  this.productos = [
-    { apellido: 'Aguas' ,nombre:"rogelio",legajo: 999 },
-    { apellido: 'Mercurio' ,nombre:"Alfredo",legajo: 999 }
-  ];*/
-
   ngOnInit(): void {
   }
 
